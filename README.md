@@ -13,4 +13,4 @@ To download, configure, and boot this project layout in a local environment:
 1. Clone this repository onto your machine.
 2. Initialize and configure essential node dependencies:
    ```bash
-   npm install****
+   npm run dev
